@@ -4,6 +4,8 @@
 **效果图**
 ![效果图](http://doc.hfybbs.vip/server/../Public/Uploads/2019-09-22/5d87726e9a91c.png "效果图")
 
+[演示站](http://newdh.hfybbs.vip "演示站")
+
 **使用方法**
 **测试系统：Ubuntu**
 ### 使用之前请事先安装python3，Django，Mysql/mariadb，mysqlclient/pymysql
